@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on with you
-- 📫 How to reach me 9522478121
 
 <!---
 Mack437/Mack437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
